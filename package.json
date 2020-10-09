@@ -1,0 +1,14 @@
+{
+  "name": "geojsondownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/index.js",
+    "transform": "node src/coordtransform.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
